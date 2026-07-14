@@ -1,0 +1,6 @@
+{
+  "name": "github-main",
+  "issuer": "https://token.actions.githubusercontent.com",
+  "subject": "repo:Luis-Alonso1992/mysite:ref:refs/heads/main",
+  "audiences": ["api://AzureADTokenExchange"]
+}
